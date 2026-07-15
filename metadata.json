@@ -1,0 +1,6 @@
+{
+  "name": "Perplexity AI Clone",
+  "description": "A minimalist, high-speed conversational search engine featuring multi-focus web grounding, source citations, Pro Mode, and thread history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
