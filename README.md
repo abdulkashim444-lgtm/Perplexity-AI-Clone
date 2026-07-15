@@ -1,20 +1,104 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🔍 Perplexity AI Clone
 
-# Run and deploy your AI Studio app
+## 🤖 AI-Powered Search Engine & Intelligent Knowledge Assistant
 
-This contains everything you need to run your app locally.
+Perplexity AI Clone is a modern, production-ready AI search platform that combines conversational artificial intelligence with real-time information retrieval to deliver fast, accurate, and context-aware answers. Inspired by Perplexity AI, the application features a sleek, responsive interface, intelligent search workflows, citation-ready responses, and seamless user interactions powered by advanced Large Language Models (LLMs).
 
-View your app in AI Studio: https://ai.studio/apps/cf26ed46-57b7-487e-b2dd-ecb4dfce14fd
+Built with **React, TypeScript, Vite, and Node.js**, the platform demonstrates modern full-stack development, scalable architecture, and AI integration while providing a premium user experience similar to leading AI search assistants.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+### 🤖 AI Search Assistant
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Conversational AI Search
+* Natural Language Queries
+* Context-Aware Responses
+* Multi-Turn Conversations
+* Intelligent Answer Generation
+* Follow-Up Questions
+
+### 🔎 Smart Search Experience
+
+* AI-Powered Information Retrieval
+* Fast Search Results
+* Real-Time Response Streaming
+* Source-Based Answers
+* Search History
+* Thread Management
+
+### 💬 Interactive Chat Interface
+
+* Modern Chat UI
+* Markdown Rendering
+* Syntax Highlighting
+* Responsive Layout
+* Dark & Light Themes
+* Smooth User Experience
+
+### ⚡ Performance & Architecture
+
+* React + TypeScript Frontend
+* Node.js Backend
+* REST API Integration
+* Modular Component Architecture
+* Environment Configuration
+* Optimized Performance
+
+### 🎨 Premium User Experience
+
+* Clean Minimal Design
+* Mobile-Friendly Interface
+* Interactive Sidebar
+* Elegant Animations
+* Fast Navigation
+* Professional SaaS Appearance
+
+---
+
+## 🚀 Technology Stack
+
+### Frontend
+
+* React.js
+* TypeScript
+* Vite
+* CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+
+### AI
+
+* Large Language Models (LLMs)
+* AI Search Integration
+* Natural Language Processing
+
+### Development Tools
+
+* Git
+* GitHub
+* npm
+* Environment Variables
+
+---
+
+## 🎯 Highlights
+
+* 🤖 AI-Powered Search Experience
+* 🔍 Intelligent Knowledge Retrieval
+* 💬 Conversational AI Interface
+* ⚡ Fast & Responsive Performance
+* 📱 Fully Responsive Design
+* 🎨 Modern SaaS-Inspired UI
+* 🏗️ Modular & Scalable Architecture
+* 🚀 Production-Ready Full-Stack Application
+
+---
+
+## 🌟 Vision
+
+Perplexity AI Clone showcases how modern AI-powered search engines can combine conversational intelligence, intuitive user interfaces, and scalable web technologies to create a seamless knowledge discovery experience. It demonstrates expertise in AI integration, React development, TypeScript, backend APIs, and production-ready application architecture, making it an excellent example of next-generation intelligent web applications.
